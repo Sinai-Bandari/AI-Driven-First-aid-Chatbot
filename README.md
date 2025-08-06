@@ -126,7 +126,7 @@ This project is licensed under the **MIT License**.
 
 ### 👤 Author
 
-**Sinai Bandari** – [Your GitHub Profile](https://github.com/Sinai-Bandari)
+**Sinai Bandari** – [Sinai-Bandari](https://github.com/Sinai-Bandari)
 
 ```
 
